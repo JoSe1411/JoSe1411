@@ -5,7 +5,7 @@
 
 - 🔭 I am currently focusing on learning databases by creating a SQLlite clone called [MiniDB](https://github.com/JoSe1411/MiniDB)
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning also learning **Spring boot** alongside.
 
 - 📫 How to reach me **joysen.3002@gmail.com**
 
