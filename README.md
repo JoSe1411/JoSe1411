@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center"><i>Crafting reliable backend systems, one commit at a time.</i></p>
+
