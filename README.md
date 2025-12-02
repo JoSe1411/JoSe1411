@@ -13,8 +13,9 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-9h0l.vercel.app/api?username=JoSe1411&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=JoSe1411&show_icons=true&hide_border=true&theme=transparent" height="160"/>
 </p>
+
 
 
 
