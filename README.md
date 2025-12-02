@@ -65,11 +65,7 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
-
-  <!-- Testing -->
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
-
+  
   <!-- Extras -->
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
