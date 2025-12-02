@@ -15,12 +15,22 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🤝 Connect with me
+
 <p align="center">
-  <a href="https://www.leetcode.com/killat" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/joy-sen-works/">
+    <img src="https://img.shields.io/badge/LinkedIn-Joy%20Sen-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:joysen.3002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-joysen.3002%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+
 </p>
+
 
 ---
 
