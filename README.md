@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently building a **SQLite clone** → [MiniDB](https://github.com/JoSe1411/MiniDB)  
+- 🔭 Currently building an **LSM engine** → [MiniDB](https://github.com/JoSe1411/LSM_Engine)  
 - 🌱 Learning **Spring Boot** to strengthen backend skills  
 - 💡 Love exploring database internals, systems programming & backend architectures  
 
